@@ -2,10 +2,10 @@
 # Name:        module1
 # Purpose:
 #
-# Author:      KETAN
+# Author:      SyntaxShreya
 #
 # Created:     27-10-2023
-# Copyright:   (c) KETAN 2023
+# Copyright:   (c) SyntaxShreya 2023
 # Licence:     <your licence>
 #-------------------------------------------------------------------------------
 
@@ -14,6 +14,7 @@ def main():
 
 if __name__ == '__main__':
     main()
+
 def findlen(x):
     print(len(x))
 
